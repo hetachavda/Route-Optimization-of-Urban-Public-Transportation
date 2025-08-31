@@ -1,3 +1,4 @@
+
 # 🚌 Route Optimization of Urban Public Transportation  
 
 A **data-driven operations analytics project** that applies **mathematical modeling, optimization, and Python (Google OR-Tools)** to improve bus scheduling and routing efficiency in urban transit systems.  
@@ -85,3 +86,68 @@ def optimize_bus_scheduling():
                     print(f'Bus route: {i} -> {j}')
     else:
         print("No solution found.")
+````
+
+---
+
+## 📊 Visualizations
+
+* **Route Visualization** → NetworkX + Matplotlib
+* **Heatmap of Travel Costs** → Seaborn
+* **Passenger Demand by Time** → Bar charts
+
+---
+
+## ✅ Results & Key Insights
+
+* 🚍 Optimized allocation reduced **idle time** and **overuse**
+* ⏱ Passenger waiting time **decreased significantly**
+* 💰 Lower **operational costs** through efficient scheduling
+* 🌱 Environmental impact reduced by **emission control constraints**
+* 🚦 Real-time **traffic-aware routing** improved punctuality
+* 📈 Service reliability increased → higher potential ridership
+
+---
+
+## ⚠️ Limitations & Future Enhancements
+
+* Current model tested on **synthetic data** → needs integration with **real GPS & IoT feeds**
+* Passenger demand forecasting can be improved with **AI/ML models**
+* Future scope: Real-time **dashboard for city planners** to optimize dynamically
+
+---
+
+## 👨‍💻 Contributors
+
+* **Setu Chaudhari** (NF1009018) – Code & Report
+* **Heta Chavda** (NF1014555) – Presentation
+* **Enejo David Colonel** – Report & Presentation
+
+📚 Course: **Operations Analytics (DAMO 610-1)**
+👨‍🏫 Professor: **Cosimo Girolamo**
+
+---
+
+## 📂 Tech Stack
+
+* **Python** (Google OR-Tools, NumPy, NetworkX, Seaborn, Matplotlib)
+* **Optimization Algorithms (MIP, Linear Programming)**
+* **Visualization Tools** for insights
+
+---
+
+## 📌 Conclusion
+
+This project highlights how **operations analytics and optimization** can transform urban public transportation by:
+
+* Reducing costs
+* Enhancing passenger satisfaction
+* Supporting sustainable urban development
+
+By combining **mathematical modeling, Python optimization, and visualization**, the project provides a framework for smarter and greener **public transit systems**.
+
+---
+
+
+Would you like me to also **add placeholder sections for inserting your project’s figures/plots** (like `![Heatmap](link)` or `![RouteGraph](link)`), so it looks even more **visual and polished on GitHub**?
+```
