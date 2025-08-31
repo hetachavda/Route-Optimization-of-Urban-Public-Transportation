@@ -148,6 +148,4 @@ By combining **mathematical modeling, Python optimization, and visualization**, 
 
 ---
 
-
-Would you like me to also **add placeholder sections for inserting your project’s figures/plots** (like `![Heatmap](link)` or `![RouteGraph](link)`), so it looks even more **visual and polished on GitHub**?
 ```
