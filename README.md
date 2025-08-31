@@ -87,7 +87,6 @@ def optimize_bus_scheduling():
     else:
         print("No solution found.")
 ````
-
 ---
 
 ## 📊 Visualizations
@@ -147,5 +146,3 @@ This project highlights how **operations analytics and optimization** can transf
 By combining **mathematical modeling, Python optimization, and visualization**, the project provides a framework for smarter and greener **public transit systems**.
 
 ---
-
-```
